@@ -1,5 +1,10 @@
 # SFG JMS Examples
 
+Contains a simple Spring boot application that uses JMS Embedded servers to communicate between microservices
+
+
+## References
+
 This repository contains source code examples used to support my on-line courses about the Spring Framework.
 
 You can learn more about the courses here:
